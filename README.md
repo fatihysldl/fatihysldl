@@ -7,7 +7,7 @@
 
 Merhaba, ben Muhammed Fatih Yeşildal! İstinye üniversitesinde Yönetim Bilişim Sistemleri 3. sınıf öğrencisiyim. Programlama dilleri konusuna ilgili bir geliştirici ve öğrenciyim.
 
-- 🌱 Şu anda öğrenmekte olduğum konulardan bazıları: Veri Bilimi ve programlama
+- 🌱 Şu anda öğrenmekte olduğum konulardan bazıları: Veri Bilimi, programlama, proje yönetimi.
 - 📫 Bana ulaşabileceğiniz e-posta: fatihyesildal10@gmail.com
 
 ## 🛠️ Kullandığım Teknolojiler ve Araçlar
