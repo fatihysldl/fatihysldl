@@ -1,5 +1,5 @@
 
-### Mehaba, Benim Adım Muhammed Fatih
+### Merhaba, Benim Adım Muhammed Fatih
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-fatih-ye%C5%9Fildal-025887228/)
 
