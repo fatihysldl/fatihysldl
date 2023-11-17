@@ -1,10 +1,8 @@
 
 ### Mehaba, Benim Adım Muhammed Fatih
-<!--
-**fatihysldl/fatihysldl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/muhammed-fatih-ye%C5%9Fildal-025887228/
-Here are some ideas to get you started:
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-fatih-ye%C5%9Fildal-025887228/)
 
 ##Hakkımda
 
@@ -29,6 +27,6 @@ Merhaba, ben Muhammed Fatih Yeşildal! İstinye üniversitesinde Yönetim Biliş
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=ffffff)
 ![Deluge](https://img.shields.io/badge/-Deluge-%23663399?style=flat&logo=zoho&logoColor=ffffff)
 
-[![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=KullanıcıAdınız&show_icons=true&count_private=true&hide=prs,issues&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=fatihysldl&show_icons=true&count_private=true&hide=prs,issues&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
--->
+
