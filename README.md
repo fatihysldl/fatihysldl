@@ -1,7 +1,6 @@
 
 ### Mehaba, Benim Adım Muhammed Fatih
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-fatih-ye%C5%9Fildal-025887228/)
 
 ##Hakkımda
@@ -26,7 +25,3 @@ Merhaba, ben Muhammed Fatih Yeşildal! İstinye üniversitesinde Yönetim Biliş
 ![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=flat&logo=css3&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=ffffff)
 ![Deluge](https://img.shields.io/badge/-Deluge-%23663399?style=flat&logo=zoho&logoColor=ffffff)
-
-[![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=fatihysldl&show_icons=true&count_private=true&hide=prs,issues&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
